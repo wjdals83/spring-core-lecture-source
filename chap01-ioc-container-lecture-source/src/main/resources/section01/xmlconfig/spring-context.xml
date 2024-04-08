@@ -6,6 +6,6 @@
         <constructor-arg index="0" value="1"/>
         <constructor-arg name="id" value="user01"/>
         <constructor-arg index="2"><value>pass01</value></constructor-arg>
-        <constructor-arg name="name"><value>김윤재</value></constructor-arg>
+        <constructor-arg name="name"><value>서정민</value></constructor-arg>
     </bean>
 </beans>
