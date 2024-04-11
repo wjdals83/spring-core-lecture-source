@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c76e86a8-7280-436d-ae0f-5683ab08c43f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../chap01-ioc-container-lecture-source/src/main/resources/section01/xmlconfig/spring-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap01-ioc-container-lecture-source/src/main/resources/section01/xmlconfig/spring-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap03-di-annotation/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap03-di-annotation/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap03-di-annotation/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap03-di-annotation/src/main/java/com/ohgraffers/section01/autowired/subsection02/constructor/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap03-di-annotation/src/main/java/com/ohgraffers/section01/autowired/subsection02/constructor/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,9 +15,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2efmeb7uYs8CJdXAFnzNqmQBRqS" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -25,7 +28,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Lecture/09_spring-core/01_lecture-source/practice",
+    "last_opened_file_path": "C:/Lecture/09_spring-core/01_lecture-source/practice/chap03-di-annotation",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -39,6 +42,8 @@
       <option name="presentableId" value="Default" />
       <updated>1712304102172</updated>
       <workItem from="1712304103218" duration="40000" />
+      <workItem from="1712583561024" duration="66000" />
+      <workItem from="1712622323141" duration="10000" />
     </task>
     <servers />
   </component>

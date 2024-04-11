@@ -22,10 +22,15 @@ public class BookService {
     private final BookDAO bookDAO;
 
     @Autowired      // 생성자를 통한 초기화가 됐다.
-    public BookService(BookDAO bookDAO) {
+    public BookService(BookDAO bookDAO) {       // @autowired가 자동으로 'BookDAO 타입의 Bean을 찾아서 주입해준다.
 
         this.bookDAO = bookDAO;
     }
+
+    /* 중요. @autowired 를 입력하지 않았을 땐,
+    *   public BookService() {
+    *   this.bookDAO = new BookDAOImpl(); 이런식으로 써줘야 한다.
+    * */
 
     public List<BookDTO> selectAllBooks() {
 
